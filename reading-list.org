@@ -1357,7 +1357,10 @@ CLOSED: [2017-01-14]
 :GOODREADS: https://www.goodreads.com/book/show/28186015
 :END:
 
-For many it might just be a confirming nod to what they know about Big data in general, but is a good read nevertheless.<br/><br/>Overall, it ties "data science" with its responsibilities. Responsibilities which demands greater care and openness than assumed in the present unconstrained Big data buzz.
+For many it might just be a confirming nod to what they know about Big data in
+general, but is a good read nevertheless. Overall, it ties "data
+science" with its responsibilities. Responsibilities which demands greater care
+and openness than assumed in the present unconstrained Big data buzz.
 
 * Beautiful Evidence
 :PROPERTIES:
@@ -1545,7 +1548,8 @@ CLOSED: [2016-08-30]
 :GOODREADS: https://www.goodreads.com/book/show/13529055
 :END:
 
-There is a different complexion in a dying person's writing. You don't have to like it or hate it. Its honest, brutal and beautiful.
+There is a different complexion in a dying person's writing. You don't have to
+like it or hate it. Its honest, brutal and beautiful.
 
 * Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients
 :PROPERTIES:
@@ -1985,7 +1989,9 @@ CLOSED: [2016-08-07]
 :GOODREADS: https://www.goodreads.com/book/show/2845024
 :END:
 
-It could have been helped by a bit more deeper storyline and 'theorics', considering the number of pages (~1000).<br/>The kind of topics it touched, it could have been perfect. But sometimes it bloats out.
+It could have been helped by a bit more deeper storyline and 'theorics',
+considering the number of pages (~1000). The kind of topics it touched, it
+could have been perfect. But sometimes it bloats out.
 
 * The Night Circus
 :PROPERTIES:
@@ -2039,7 +2045,8 @@ CLOSED: [2017-01-02]
 :GOODREADS: https://www.goodreads.com/book/show/400897
 :END:
 
-Story of the south really picks up with this one! Hopefully, the next 2 will be amazing.
+Story of the south really picks up with this one! Hopefully, the next 2 will be
+amazing.
 
 * READ Bleak Seasons (The Chronicles of the Black Company, #6)
 CLOSED: [2016-12-22]
@@ -2059,7 +2066,10 @@ CLOSED: [2016-08-15]
 :GOODREADS: https://www.goodreads.com/book/show/400900
 :END:
 
-Characters up in the north were more alluring. Read through the books of the south using the impetus of north. Gets slightly unnecessarily chaotic at times, without moving the story as the older books did. Will go to glittering stone after touching the silver spike.
+Characters up in the north were more alluring. Read through the books of the
+south using the impetus of north. Gets slightly unnecessarily chaotic at times,
+without moving the story as the older books did. Will go to glittering stone
+after touching the silver spike.
 
 * READ Shadow Games (The Chronicles of the Black Company, #4)
 CLOSED: [2016-08-14]
@@ -2976,7 +2986,8 @@ CLOSED: [2015-09-26]
 :GOODREADS: https://www.goodreads.com/book/show/25493536
 :END:
 
-It wasn't in my high priority to-read list, but I started and didn't stop till it was over.<br/>Exactly the way I wanted the piracy story to be told.
+It wasn't in my high priority to-read list, but I started and didn't stop till
+it was over. Exactly the way I wanted the piracy story to be told.
 
 * READ The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
 CLOSED: [2016-05-16]
