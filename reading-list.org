@@ -4807,3 +4807,16 @@ CLOSED: [2014-03-23]
 :URL:      http://beautifulracket.com/
 :END:
 
+* Moby Dick
+:PROPERTIES:
+:AUTHOR:   Herman Melville
+:ADDED:    <2017-06-28>
+:END:
+
+* Soul Made Flesh: The Discovery of the Brain--and How it Changed the World
+:PROPERTIES:
+:AUTHOR:   Carl Zimmer
+:ADDED:    <2017-06-28>
+:AMAZON:   https://www.amazon.com/gp/product/0743272056
+:END:
+
