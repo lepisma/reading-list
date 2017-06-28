@@ -4745,3 +4745,65 @@ CLOSED: [2014-03-23]
 :GOODREADS: https://www.goodreads.com/book/show/3869
 :END:
 
+* Design Patterns: Elements of Reusable Object-Oriented Software
+:PROPERTIES:
+:AUTHOR:   Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+:ADDED:    <2017-06-28>
+:AMAZON:   https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
+:END:
+
+* Tales of Old Japan: Folklore, Fairy Tales, Ghost Stories and Legends of the Samurai
+:PROPERTIES:
+:AUTHOR:   Algernon Bertram Freeman-Mitford
+:ADDED:    <2017-06-28>
+:GOODREADS: https://www.goodreads.com/book/show/194441.Tales_of_Old_Japan
+:END:
+
+* Blankets
+:PROPERTIES:
+:AUTHOR:   Craig Thompson
+:ADDED:    <2017-06-28>
+:GOODREADS: https://www.goodreads.com/book/show/25179.Blankets?ac=1&from_search=true
+:END:
+* The Mathematical Mechanic: Using Physical Reasoning to Solve Problems
+:PROPERTIES:
+:AUTHOR:   Mark Levi
+:ADDED:    <2017-06-28>
+:GOODREADS: https://www.goodreads.com/book/show/6418615-the-mathematical-mechanic?ac=1&from_search=true
+:END:
+
+* Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)
+:PROPERTIES:
+:AUTHOR:   Harold Abelson, Gerald Jay Sussman, Julie Sussman
+:ADDED:    <2017-06-28>
+:GOODREADS: https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs?ac=1&from_search=true
+:END:
+
+* How to Design Programs: An Introduction to Programming and Computing
+:PROPERTIES:
+:AUTHOR:   Matthias Felleisen
+:ADDED:    <2017-06-28>
+:AMAZON:   https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186
+:END:
+
+* Data Structures and Algorithms in Python
+:PROPERTIES:
+:AUTHOR:   Michael T. Goodrich
+:ADDED:    <2017-06-28>
+:AMAZON:   https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275
+:END:
+
+* Practical Common Lisp
+:PROPERTIES:
+:AUTHOR:   Peter Seibel
+:ADDED:    <2017-06-28>
+:AMAZON:   https://www.amazon.com/Practical-Common-Lisp-Peter-Seibel/dp/1590592395
+:END:
+
+* Beautiful Racket
+:PROPERTIES:
+:AUTHOR:   Matthew Butterick
+:ADDED:    <2017-06-28>
+:URL:      http://beautifulracket.com/
+:END:
+
