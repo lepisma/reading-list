@@ -734,12 +734,18 @@ CLOSED: [2017-06-07]
 :GOODREADS: https://www.goodreads.com/book/show/944073
 :END:
 
-* Visual Explanations: Images and Quantities, Evidence and Narrative
+* READ Visual Explanations: Images and Quantities, Evidence and Narrative
+CLOSED: [2017-07-01 Sat 15:23]
 :PROPERTIES:
 :AUTHOR:    Edward R. Tufte
 :ADDED:     <2017-01-18>
 :GOODREADS: https://www.goodreads.com/book/show/17746
+:RATING:   :star::star::star::star::star:
 :END:
+
+Loved this book thoroughly. Takes me back to the explanatory books I used to
+read when younger. This makes you develop an eye for criticizing / respecting
+visual explanations, exactly what you expect from the title.
 
 * READ Envisioning Information
 CLOSED: [2017-02-20]
@@ -1425,12 +1431,19 @@ and openness than assumed in the present unconstrained Big data buzz.
 :GOODREADS: https://www.goodreads.com/book/show/821914
 :END:
 
-* The Pragmatic Programmer: From Journeyman to Master
+* READ The Pragmatic Programmer: From Journeyman to Master
+CLOSED: [2017-06-29 Thu 14:36]
 :PROPERTIES:
 :AUTHOR:    Andrew Hunt, Dave Thomas
 :ADDED:     <2016-09-16>
 :GOODREADS: https://www.goodreads.com/book/show/4099
+:RATING:   :star::star::star::star:
 :END:
+
+A good book. More like a collection of things, but the authors state this
+upfront so it doesn't break the idea of a /flowing/ read. Has a light take on the
+ideas it presents, which makes it a comfortable read without sounding overly
+preachy.
 
 * You Are Not a Gadget
 :PROPERTIES:
@@ -4745,7 +4758,7 @@ CLOSED: [2014-03-23]
 :GOODREADS: https://www.goodreads.com/book/show/3869
 :END:
 
-* Design Patterns: Elements of Reusable Object-Oriented Software
+* NEXT Design Patterns: Elements of Reusable Object-Oriented Software
 :PROPERTIES:
 :AUTHOR:   Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 :ADDED:    <2017-06-28>
@@ -4793,7 +4806,7 @@ CLOSED: [2014-03-23]
 :AMAZON:   https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275
 :END:
 
-* Practical Common Lisp
+* READING Practical Common Lisp
 :PROPERTIES:
 :AUTHOR:   Peter Seibel
 :ADDED:    <2017-06-28>
