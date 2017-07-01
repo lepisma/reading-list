@@ -1243,7 +1243,7 @@ Interesting read on some of the 'earlier theory and works' in statistical visual
 :GOODREADS: https://www.goodreads.com/book/show/656
 :END:
 
-* Critical Mass: How One Thing Leads to Another
+* READING Critical Mass: How One Thing Leads to Another
 :PROPERTIES:
 :AUTHOR:    Philip Ball
 :ADDED:     <2016-11-19>
@@ -1368,7 +1368,7 @@ general, but is a good read nevertheless. Overall, it ties "data
 science" with its responsibilities. Responsibilities which demands greater care
 and openness than assumed in the present unconstrained Big data buzz.
 
-* Beautiful Evidence
+* READING Beautiful Evidence
 :PROPERTIES:
 :AUTHOR:    Edward R. Tufte
 :ADDED:     <2016-09-24>
