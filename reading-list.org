@@ -4833,3 +4833,10 @@ CLOSED: [2014-03-23]
 :AMAZON:   https://www.amazon.com/gp/product/0743272056
 :END:
 
+* Through the Language Glass: Why the World Looks Different in Other Languages
+:PROPERTIES:
+:AUTHOR:   Guy Deutscher
+:ADDED:    <2017-07-04>
+:AMAZON:   https://www.amazon.com/Through-Language-Glass-Different-Languages/dp/0312610491
+:END:
+
