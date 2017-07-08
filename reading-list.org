@@ -4840,3 +4840,14 @@ CLOSED: [2014-03-23]
 :AMAZON:   https://www.amazon.com/Through-Language-Glass-Different-Languages/dp/0312610491
 :END:
 
+* READ Sandman: Preludes & Nocturnes
+CLOSED: [2017-07-07 Fri 23:58]
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Sam Kieth, (Illustrator), Mike Dringenberg, (Illustrator), Malcolm Jones III, (Illustrator), Todd Klein, (Letterer), Karen  Berger, (Introduction/Editor)
+:ADDED:    <2017-07-07>
+:GOODREADS: https://www.goodreads.com/book/show/23754.Preludes_Nocturnes
+:RATING:   :star::star::star:
+:END:
+
+Decent. Did not feel /very/ impressive, but there are a lot more issues to go.
+
