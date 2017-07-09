@@ -4772,7 +4772,7 @@ CLOSED: [2014-03-23]
 :GOODREADS: https://www.goodreads.com/book/show/194441.Tales_of_Old_Japan
 :END:
 
-* Blankets
+* NEXT Blankets
 :PROPERTIES:
 :AUTHOR:   Craig Thompson
 :ADDED:    <2017-06-28>
@@ -4851,7 +4851,7 @@ CLOSED: [2017-07-07 Fri 23:58]
 
 Decent. Did not feel /very/ impressive, but there are a lot more issues to go.
 
-* Sandman: The Doll's House
+* READING Sandman: The Doll's House
 :PROPERTIES:
 :AUTHOR:   Neil Gaiman, Steve Parkhouse, (Illustrator), Chris Bachalo, (Illustrator), Michael Zulli, (Illustrator), Mike Dringenberg, (Illustrator), Malcolm Jones III, (Illustrator), Todd Klein, (Letterer), Clive Barker, (Introduction)
 :ADDED:    <2017-07-08>
