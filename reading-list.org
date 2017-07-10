@@ -1452,7 +1452,7 @@ preachy.
 :GOODREADS: https://www.goodreads.com/book/show/6683549
 :END:
 
-* The Wisdom of Crowds
+* READING The Wisdom of Crowds
 :PROPERTIES:
 :AUTHOR:    James Surowiecki
 :ADDED:     <2016-09-15>
