@@ -4840,7 +4840,7 @@ CLOSED: [2014-03-23]
 :AMAZON:   https://www.amazon.com/Through-Language-Glass-Different-Languages/dp/0312610491
 :END:
 
-* READ Sandman: Preludes & Nocturnes
+* READ Preludes & Nocturnes (Sandman, #1)
 CLOSED: [2017-07-07 Fri 23:58]
 :PROPERTIES:
 :AUTHOR:   Neil Gaiman, Sam Kieth, (Illustrator), Mike Dringenberg, (Illustrator), Malcolm Jones III, (Illustrator), Todd Klein, (Letterer), Karen  Berger, (Introduction/Editor)
@@ -4851,10 +4851,79 @@ CLOSED: [2017-07-07 Fri 23:58]
 
 Decent. Did not feel /very/ impressive, but there are a lot more issues to go.
 
-* READING Sandman: The Doll's House
+* READ The Doll's House (Sandman, #2)
+CLOSED: [2017-07-11 Tue 15:33]
 :PROPERTIES:
 :AUTHOR:   Neil Gaiman, Steve Parkhouse, (Illustrator), Chris Bachalo, (Illustrator), Michael Zulli, (Illustrator), Mike Dringenberg, (Illustrator), Malcolm Jones III, (Illustrator), Todd Klein, (Letterer), Clive Barker, (Introduction)
 :ADDED:    <2017-07-08>
 :GOODREADS: https://www.goodreads.com/book/show/25099.The_Doll_s_House
+:RATING:   :star::star::star::star:
+:END:
+
+Better than the first collection. Both are written well, but the first feels
+like telling a pretty simple story while the second, spending the same amount of
+attention, has more depth to it.
+
+* READING Dream Country (Sandman, #3)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Kelley Jones, (Illustrator), Charles Vess, (Illustrator), Colleen Doran, (Illustrator), Malcolm Jones III, (Illustrator), Steve Erickson, (Introduction)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/25100.Dream_Country
+:END:
+
+* Season of Mists (Sandman, #4)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Matt Wagner, (Illustrator), George Pratt, (Illustrator), Dick Giordano, (Illustrator), Kelley Jones, (Illustrator), P. Craig Russell, (Illustrator), Mike Dringenberg, (Illustrator), Malcolm Jones III, (Illustrator), Todd Klein, (Letterer), Harlan Ellison, (Introduction)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/25101.Season_of_Mists
+:END:
+
+* A Game of You (Sandman, #5)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Shawn McManus, (Illustrator), Colleen Doran, (Illustrator), Bryan Talbot, (Illustrator), George Pratt, (Illustrator), Stan Woch, (Illustrator), Dick Giordano, (Illustrator), Todd Klein, (Letterer)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/25102.A_Game_of_You
+:END:
+
+* Fables and Reflections (Sandman, #6)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Bryan Talbot, (Illustrator), Stan Woch, (Illustrator), P. Craig Russell, (Illustrator), Shawn McManus, (Illustrator), John Watkiss, (Illustrator), Jill Thompson, (Illustrator), Duncan Eagleson, (Illustrator), Kent Williams, (Illustrator), Todd Klein, (Letterer)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/25106.Fables_and_Reflections
+:END:
+
+* Brief Lives (Sandman, #7)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Jill Thompson, (Illustrator), Vince Locke, (Illustrator), Peter Straub, (Introduction)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/25105.Brief_Lives
+:END:
+
+* Worlds' End (Sandman, #8)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Mike Allred, (Illustrator), Gary Amaro, (Illustrator), Mark Buckingham, (Illustrator), David Giordano, (Illustrator), Tony Harris, (Illustrator), Steve Leialoha, (Illustrator), Vince Locke, (Illustrator), Shea Anton Pensa, (Illustrator), Alec Stevens, (Illustrator), Bryan Talbot, (Illustrator), John Watkiss, (Illustrator), Todd Klein, (Letterer), Michael Zulli, (Illustrator), Stephen King, (Introduction)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/25103.Worlds_End
+:END:
+
+* The Kindly Ones (Sandman, #9)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Marc Hempel, (Illustrator), Richard Case, (Illustrator), D'Israeli, (Illustrator), Teddy Kristiansen, (Illustrator), Glyn Dillon, (Illustrator), Charles Vess, (Illustrator), Dean Ormston, (Illustrator), Kevin Nowlan, (Illustrator), Todd Klein, (Letterer), Frank McConnell, (Introduction)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/71252.The_Kindly_Ones
+:END:
+
+* The Wake (Sandman, #10)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Michael Zulli, (Illustrator), Jon J. Muth, (Illustrator), Charles Vess, (Illustrator), Mikal Gilmore, (Introduction)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/25104.The_Wake
+:END:
+
+* Endless Nights (Sandman, #11)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Barron Storey, (Illustrator), Bill Sienkiewicz, (Illustrator), Glenn Fabry, (Illustrator), Dave McKean, (Illustrator), P. Craig Russell, (Illustrator), Milo Manara, (Illustrator), Miguelanxo Prado, (Illustrator), Frank Quitely, (Illustrator), Todd Klein, (Letterer)
+:ADDED:    <2017-07-11>
+:GOODREADS: https://www.goodreads.com/book/show/47720.The_Sandman
 :END:
 
