@@ -4927,3 +4927,10 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/47720.The_Sandman
 :END:
 
+* READING A Midsummer Night's Dream
+:PROPERTIES:
+:AUTHOR:   William Shakespeare, Barbara A. Mowat, (Editor), Paul Werstine, (Editor), Catherine Belsey, (Contributor)
+:ADDED:    <2017-07-12>
+:GOODREADS: https://www.goodreads.com/book/show/1622.A_Midsummer_Night_s_Dream
+:END:
+
