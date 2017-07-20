@@ -1676,12 +1676,17 @@ like it or hate it. Its honest, brutal and beautiful.
 :GOODREADS: https://www.goodreads.com/book/show/12232938
 :END:
 
-* Flowers for Algernon
+* READ Flowers for Algernon
+CLOSED: [2017-07-20 Thu 03:19]
 :PROPERTIES:
 :AUTHOR:    Daniel Keyes
 :ADDED:     <2016-08-12>
 :GOODREADS: https://www.goodreads.com/book/show/18373
+:RATING:   :star::star::star::star::star:
 :END:
+
+I expected the book to end the way it did a lot earlier and that decreased the
+power of the transition back to Charlie in this otherwise wonderful story.
 
 * Extremely Loud and Incredibly Close
 :PROPERTIES:
