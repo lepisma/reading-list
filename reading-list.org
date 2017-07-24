@@ -4939,10 +4939,3 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/1622.A_Midsummer_Night_s_Dream
 :END:
 
-* 
-:PROPERTIES:
-:AUTHOR:
-:ADDED:    <2017-07-24>
-:AMAZON:   https://www.amazon.com/Organization-Man-William-H-Whyte/dp/0812218191
-:END:
-
