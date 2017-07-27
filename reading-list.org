@@ -4946,3 +4946,10 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Organization-Man-William-H-Whyte/dp/0812218191
 :END:
 
+* The Science of Fear: How the Culture of Fear Manipulates Your Brain
+:PROPERTIES:
+:AUTHOR:   Daniel Gardner
+:ADDED:    <2017-07-27>
+:AMAZON:   https://www.amazon.com/Science-Fear-Culture-Manipulates-Brain/dp/0452295467
+:END:
+
