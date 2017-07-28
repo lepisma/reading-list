@@ -1461,7 +1461,19 @@ CLOSED: [2017-07-28 Fri 17:35]
 :RATING:   :star::star::star::star::star:
 :END:
 
+This is a great book. Its of perfect length for the matter and the way it
+presents them.
 
+At places, it felt like doing a little bit of exaggeration by criticizing the
+classical wisdom too much. Many of the times an approach which has less
+explanation and theory behind it is frowned upon. Many of the group-behavior
+based solutions fall in this category. They might work well, but their lack of
+popularity is not /entirely/ surprising and irrational (can we can say its another
+wisdom of the crowd rejecting the first wisdom of the crowd?).
+
+I like how the book classifies the type of problems regularly faced by a crowd
+and the conditions they need to make wise decisions there. These are some good
+cues for analyzing and understanding cases presented in the book.
 
 * READING Literate Programming
 :PROPERTIES:
@@ -4693,7 +4705,7 @@ CLOSED: [2014-06-22]
 :GOODREADS: https://www.goodreads.com/book/show/150131
 :END:
 
-* The Universe in a Nutshell
+* READ The Universe in a Nutshell
 :PROPERTIES:
 :AUTHOR:    Stephen Hawking
 :ADDED:     <2014-04-10>
@@ -4709,7 +4721,7 @@ CLOSED: [2014-06-22]
 :GOODREADS: https://www.goodreads.com/book/show/10238
 :END:
 
-* The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design
+* READ The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design
 :PROPERTIES:
 :AUTHOR:    Richard Dawkins
 :ADDED:     <2014-04-10>
@@ -4726,7 +4738,7 @@ CLOSED: [2014-04-10]
 :GOODREADS: https://www.goodreads.com/book/show/2318271
 :END:
 
-* Nikola Tesla: Imagination and the Man That Invented the 20th Century
+* READ Nikola Tesla: Imagination and the Man That Invented the 20th Century
 :PROPERTIES:
 :AUTHOR:    Sean Patrick
 :ADDED:     <2014-04-10>
@@ -4955,5 +4967,12 @@ attention, has more depth to it.
 :AUTHOR:   Daniel Gardner
 :ADDED:    <2017-07-27>
 :AMAZON:   https://www.amazon.com/Science-Fear-Culture-Manipulates-Brain/dp/0452295467
+:END:
+
+* The Evolution of Cooperation: Revised Edition
+:PROPERTIES:
+:AUTHOR:   Robert Axelrod
+:ADDED:    <2017-07-28>
+:AMAZON:   https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640
 :END:
 
