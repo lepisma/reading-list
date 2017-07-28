@@ -330,7 +330,6 @@ CLOSED: [2017-05-14]
 :PROPERTIES:
 :AUTHOR:    Stanisław Lem
 :ADDED:     <2017-05-07>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/95558
 :END:
 
@@ -355,7 +354,6 @@ CLOSED: [2015-04-28]
 :PROPERTIES:
 :AUTHOR:    Lewis Carroll, John Tenniel
 :ADDED:     <2017-03-27>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/6324090
 :END:
 
@@ -420,7 +418,6 @@ CLOSED: [2017-05-30]
 :PROPERTIES:
 :AUTHOR:    Melanie Mitchell
 :ADDED:     <2017-03-11>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/105139
 :END:
 
@@ -606,7 +603,7 @@ CLOSED: [2017-05-30]
 :GOODREADS: https://www.goodreads.com/book/show/7250157
 :END:
 
-* Evolution—The Extended Synthesis 
+* Evolution—The Extended Synthesis
 :PROPERTIES:
 :AUTHOR:    Massimo Pigliucci, Gerd B. Müller
 :ADDED:     <2017-02-18>
@@ -709,7 +706,6 @@ CLOSED: [2017-06-07]
 :PROPERTIES:
 :AUTHOR:    Margaret Atwood
 :ADDED:     <2017-01-26>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/38447
 :END:
 
@@ -740,7 +736,6 @@ CLOSED: [2017-07-01 Sat 15:23]
 :AUTHOR:    Edward R. Tufte
 :ADDED:     <2017-01-18>
 :GOODREADS: https://www.goodreads.com/book/show/17746
-:RATING:   :star::star::star::star::star:
 :END:
 
 Loved this book thoroughly. Takes me back to the explanatory books I used to
@@ -752,7 +747,6 @@ CLOSED: [2017-02-20]
 :PROPERTIES:
 :AUTHOR:    Edward R. Tufte
 :ADDED:     <2017-01-18>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17745
 :END:
 
@@ -873,7 +867,6 @@ CLOSED: [2017-01-18]
 :PROPERTIES:
 :AUTHOR:    Edward R. Tufte
 :ADDED:     <2016-12-22>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17744
 :END:
 
@@ -1297,7 +1290,6 @@ CLOSED: [2016-09-27]
 :PROPERTIES:
 :AUTHOR:    Pieter Hintjens
 :ADDED:     <2016-11-12>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/32326166
 :END:
 
@@ -1306,7 +1298,6 @@ CLOSED: [2016-11-12]
 :PROPERTIES:
 :AUTHOR:    Pieter Hintjens
 :ADDED:     <2016-11-12>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/30121783
 :END:
 
@@ -1315,7 +1306,6 @@ CLOSED: [2016-12-07]
 :PROPERTIES:
 :AUTHOR:    Kenneth O. Stanley, Joel Lehman
 :ADDED:     <2016-10-23>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/25670869
 :END:
 
@@ -1359,7 +1349,6 @@ CLOSED: [2017-01-14]
 :PROPERTIES:
 :AUTHOR:    Cathy O'Neil
 :ADDED:     <2016-10-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/28186015
 :END:
 
@@ -1437,7 +1426,6 @@ CLOSED: [2017-06-29 Thu 14:36]
 :AUTHOR:    Andrew Hunt, Dave Thomas
 :ADDED:     <2016-09-16>
 :GOODREADS: https://www.goodreads.com/book/show/4099
-:RATING:   :star::star::star::star:
 :END:
 
 A good book. More like a collection of things, but the authors state this
@@ -1458,7 +1446,6 @@ CLOSED: [2017-07-28 Fri 17:35]
 :AUTHOR:    James Surowiecki
 :ADDED:     <2016-09-15>
 :GOODREADS: https://www.goodreads.com/book/show/68143
-:RATING:   :star::star::star::star::star:
 :END:
 
 This is a great book. Its of perfect length for the matter and the way it
@@ -1543,7 +1530,6 @@ CLOSED: [2016-08-27]
 :PROPERTIES:
 :AUTHOR:    Ali Almossawi, Alejandro Giraldo
 :ADDED:     <2016-08-26>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18753581
 :END:
 
@@ -1573,7 +1559,6 @@ CLOSED: [2016-08-30]
 :PROPERTIES:
 :AUTHOR:    Christopher Hitchens
 :ADDED:     <2016-08-26>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/13529055
 :END:
 
@@ -1698,7 +1683,6 @@ CLOSED: [2017-07-20 Thu 03:19]
 :AUTHOR:    Daniel Keyes
 :ADDED:     <2016-08-12>
 :GOODREADS: https://www.goodreads.com/book/show/18373
-:RATING:   :star::star::star::star::star:
 :END:
 
 I expected the book to end the way it did a lot earlier and that decreased the
@@ -1744,7 +1728,6 @@ CLOSED: [2017-06-08]
 :PROPERTIES:
 :AUTHOR:    Shel Silverstein
 :ADDED:     <2016-08-12>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/370493
 :END:
 
@@ -1753,7 +1736,6 @@ CLOSED: [2016-08-13]
 :PROPERTIES:
 :AUTHOR:    Allie Brosh
 :ADDED:     <2016-08-12>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17571564
 :END:
 
@@ -1867,7 +1849,6 @@ CLOSED: [2017-04-11]
 :PROPERTIES:
 :AUTHOR:    Anthony Burgess
 :ADDED:     <2016-08-12>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/227463
 :END:
 
@@ -1890,7 +1871,6 @@ CLOSED: [2017-03-31]
 :PROPERTIES:
 :AUTHOR:    Aldous Huxley
 :ADDED:     <2016-08-11>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/5129
 :END:
 
@@ -1969,7 +1949,6 @@ CLOSED: [2016-07-01]
 :PROPERTIES:
 :AUTHOR:    Lawrence M. Krauss, Stephen Hawking
 :ADDED:     <2016-06-25>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/2104
 :END:
 
@@ -1978,7 +1957,6 @@ CLOSED: [2016-06-29]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski
 :ADDED:     <2016-06-19>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/25748789
 :END:
 
@@ -1987,7 +1965,6 @@ CLOSED: [2016-06-24]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski
 :ADDED:     <2016-06-19>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/68452
 :END:
 
@@ -1996,7 +1973,6 @@ CLOSED: [2016-06-19]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski, David French
 :ADDED:     <2016-06-19>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18247597
 :END:
 
@@ -2019,7 +1995,6 @@ CLOSED: [2016-08-07]
 :PROPERTIES:
 :AUTHOR:    Neal Stephenson
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/2845024
 :END:
 
@@ -2039,7 +2014,6 @@ CLOSED: [2016-08-28]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/400914
 :END:
 
@@ -2048,7 +2022,6 @@ CLOSED: [2016-07-04]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/140671
 :END:
 
@@ -2057,7 +2030,6 @@ CLOSED: [2017-02-07]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/349470
 :END:
 
@@ -2066,7 +2038,6 @@ CLOSED: [2017-02-25]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/400899
 :END:
 
@@ -2075,7 +2046,6 @@ CLOSED: [2017-01-02]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/400897
 :END:
 
@@ -2087,7 +2057,6 @@ CLOSED: [2016-12-22]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/400911
 :END:
 
@@ -2096,7 +2065,6 @@ CLOSED: [2016-08-15]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/400900
 :END:
 
@@ -2110,7 +2078,6 @@ CLOSED: [2016-08-14]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/113540
 :END:
 
@@ -2119,7 +2086,6 @@ CLOSED: [2016-08-12]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/400906
 :END:
 
@@ -2128,7 +2094,6 @@ CLOSED: [2016-08-09]
 :PROPERTIES:
 :AUTHOR:    Glen Cook
 :ADDED:     <2016-06-16>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/400881
 :END:
 
@@ -2144,7 +2109,6 @@ CLOSED: [2016-05-28]
 :PROPERTIES:
 :AUTHOR:    Neil Gaiman
 :ADDED:     <2016-05-25>
-:RATING:     :star::star:
 :GOODREADS: https://www.goodreads.com/book/show/15783514
 :END:
 
@@ -2153,7 +2117,6 @@ CLOSED: [2016-05-19]
 :PROPERTIES:
 :AUTHOR:    G.H. Hardy
 :ADDED:     <2016-05-19>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/154060
 :END:
 
@@ -2309,7 +2272,6 @@ CLOSED: [2016-06-19]
 :PROPERTIES:
 :AUTHOR:    Alan Moore, David   Lloyd
 :ADDED:     <2016-04-05>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/5805
 :END:
 
@@ -2318,7 +2280,6 @@ CLOSED: [2016-05-24]
 :PROPERTIES:
 :AUTHOR:    Alan Moore, Dave Gibbons, John Higgins
 :ADDED:     <2016-04-05>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/472331
 :END:
 
@@ -2334,7 +2295,6 @@ CLOSED: [2016-04-04]
 :PROPERTIES:
 :AUTHOR:    Gene Wallenstein
 :ADDED:     <2016-03-27>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/6076559
 :END:
 
@@ -2378,7 +2338,6 @@ CLOSED: [2016-03-19]
 :PROPERTIES:
 :AUTHOR:    Daniel Shiffman
 :ADDED:     <2016-03-19>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/16123828
 :END:
 
@@ -2394,7 +2353,6 @@ CLOSED: [2016-03-20]
 :PROPERTIES:
 :AUTHOR:    Aravind Adiga
 :ADDED:     <2016-03-13>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/1768603
 :END:
 
@@ -2410,7 +2368,6 @@ CLOSED: [2016-03-12]
 :PROPERTIES:
 :AUTHOR:    Richard Feynman
 :ADDED:     <2016-03-04>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17375
 :END:
 
@@ -2433,7 +2390,6 @@ CLOSED: [2016-03-13]
 :PROPERTIES:
 :AUTHOR:    Yann Martel
 :ADDED:     <2016-02-27>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/4214
 :END:
 
@@ -2449,7 +2405,6 @@ CLOSED: [2016-02-16]
 :PROPERTIES:
 :AUTHOR:    Khushwant Singh
 :ADDED:     <2016-02-11>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/785454
 :END:
 
@@ -2577,7 +2532,6 @@ CLOSED: [2016-03-25]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski, David French
 :ADDED:     <2015-12-27>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/14781491
 :END:
 
@@ -2586,7 +2540,6 @@ CLOSED: [2016-01-29]
 :PROPERTIES:
 :AUTHOR:    C.S. Lewis
 :ADDED:     <2015-12-27>
-:RATING:     :star:
 :GOODREADS: https://www.goodreads.com/book/show/84369
 :END:
 
@@ -2595,7 +2548,6 @@ CLOSED: [2016-01-13]
 :PROPERTIES:
 :AUTHOR:    C.S. Lewis
 :ADDED:     <2015-12-27>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/65605
 :END:
 
@@ -2604,7 +2556,6 @@ CLOSED: [2016-01-02]
 :PROPERTIES:
 :AUTHOR:    C.S. Lewis
 :ADDED:     <2015-12-27>
-:RATING:     :star::star:
 :GOODREADS: https://www.goodreads.com/book/show/84119
 :END:
 
@@ -2613,7 +2564,6 @@ CLOSED: [2015-12-30]
 :PROPERTIES:
 :AUTHOR:    C.S. Lewis, Pauline Baynes
 :ADDED:     <2015-12-27>
-:RATING:     :star::star:
 :GOODREADS: https://www.goodreads.com/book/show/65641
 :END:
 
@@ -2622,7 +2572,6 @@ CLOSED: [2015-12-29]
 :PROPERTIES:
 :AUTHOR:    C.S. Lewis, Pauline Baynes
 :ADDED:     <2015-12-27>
-:RATING:     :star::star:
 :GOODREADS: https://www.goodreads.com/book/show/7806771
 :END:
 
@@ -2631,7 +2580,6 @@ CLOSED: [2015-12-29]
 :PROPERTIES:
 :AUTHOR:    C.S. Lewis
 :ADDED:     <2015-12-27>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/121749
 :END:
 
@@ -2640,7 +2588,6 @@ CLOSED: [2015-12-27]
 :PROPERTIES:
 :AUTHOR:    C.S. Lewis
 :ADDED:     <2015-12-27>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/100915
 :END:
 
@@ -2649,7 +2596,6 @@ CLOSED: [2016-05-23]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski
 :ADDED:     <2015-12-27>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18924205
 :END:
 
@@ -2658,7 +2604,6 @@ CLOSED: [2015-12-26]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski
 :ADDED:     <2015-12-23>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/25454056
 :END:
 
@@ -2667,7 +2612,6 @@ CLOSED: [2016-02-27]
 :PROPERTIES:
 :AUTHOR:    Neil Johnson
 :ADDED:     <2015-12-20>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18936836
 :END:
 
@@ -2690,7 +2634,6 @@ CLOSED: [2015-12-20]
 :PROPERTIES:
 :AUTHOR:    Ben Goldacre
 :ADDED:     <2015-12-12>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/9665017
 :END:
 
@@ -2699,7 +2642,6 @@ CLOSED: [2015-12-13]
 :PROPERTIES:
 :AUTHOR:    Allen B. Downey
 :ADDED:     <2015-12-12>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/13234078
 :END:
 
@@ -2729,7 +2671,6 @@ CLOSED: [2015-12-11]
 :PROPERTIES:
 :AUTHOR:    Steven H. Strogatz
 :ADDED:     <2015-12-05>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/16173023
 :END:
 
@@ -2752,7 +2693,6 @@ CLOSED: [2015-12-05]
 :PROPERTIES:
 :AUTHOR:    Dr. Seuss
 :ADDED:     <2015-12-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/7784
 :END:
 
@@ -2831,7 +2771,6 @@ CLOSED: [2016-06-26]
 :PROPERTIES:
 :AUTHOR:    Matthew Butterick, Erik Spiekermann
 :ADDED:     <2015-11-18>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18244760
 :END:
 
@@ -2896,7 +2835,6 @@ CLOSED: [2016-08-11]
 :PROPERTIES:
 :AUTHOR:    Ray Bradbury
 :ADDED:     <2015-11-01>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17470674
 :END:
 
@@ -2961,7 +2899,6 @@ CLOSED: [2015-10-25]
 :PROPERTIES:
 :AUTHOR:    Ursula K. Le Guin
 :ADDED:     <2015-10-20>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/22007410
 :END:
 
@@ -2970,7 +2907,6 @@ CLOSED: [2015-11-06]
 :PROPERTIES:
 :AUTHOR:    Melanie Mitchell
 :ADDED:     <2015-10-19>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/8207901
 :END:
 
@@ -2993,7 +2929,6 @@ CLOSED: [2015-10-19]
 :PROPERTIES:
 :AUTHOR:    Oliver Sacks
 :ADDED:     <2015-10-06>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/6234210
 :END:
 
@@ -3016,7 +2951,6 @@ CLOSED: [2015-09-26]
 :PROPERTIES:
 :AUTHOR:    Stephen Witt
 :ADDED:     <2015-09-24>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/25493536
 :END:
 
@@ -3028,7 +2962,6 @@ CLOSED: [2016-05-16]
 :PROPERTIES:
 :AUTHOR:    Pedro Domingos
 :ADDED:     <2015-09-17>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/24612233
 :END:
 
@@ -3057,7 +2990,6 @@ CLOSED: [2016-05-16]
 :PROPERTIES:
 :AUTHOR:    Jules Verne, Michael Glencross, Brian W. Aldiss
 :ADDED:     <2015-08-19>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/54479
 :END:
 
@@ -3073,7 +3005,6 @@ CLOSED: [2015-12-05]
 :PROPERTIES:
 :AUTHOR:    Paul Bogard
 :ADDED:     <2015-08-17>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18904721
 :END:
 
@@ -3096,7 +3027,6 @@ CLOSED: [2015-12-09]
 :PROPERTIES:
 :AUTHOR:    Randall Munroe
 :ADDED:     <2015-07-30>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/25329850
 :END:
 
@@ -3147,7 +3077,6 @@ CLOSED: [2015-08-07]
 :PROPERTIES:
 :AUTHOR:    William Poundstone
 :ADDED:     <2015-06-11>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/6564279
 :END:
 
@@ -3156,7 +3085,6 @@ CLOSED: [2015-09-26]
 :PROPERTIES:
 :AUTHOR:    Pieter Hintjens
 :ADDED:     <2015-06-09>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/19257445
 :END:
 
@@ -3207,7 +3135,6 @@ CLOSED: [2015-05-19]
 :PROPERTIES:
 :AUTHOR:    H.G. Wells
 :ADDED:     <2015-05-14>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/8155907
 :END:
 
@@ -3216,7 +3143,6 @@ CLOSED: [2015-05-14]
 :PROPERTIES:
 :AUTHOR:    Oliver Sacks
 :ADDED:     <2015-05-09>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/13132815
 :END:
 
@@ -3232,7 +3158,6 @@ CLOSED: [2015-05-07]
 :PROPERTIES:
 :AUTHOR:    Randall Munroe
 :ADDED:     <2015-05-01>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/21413662
 :END:
 
@@ -3255,7 +3180,6 @@ CLOSED: [2015-07-16]
 :PROPERTIES:
 :AUTHOR:    Michael S.A. Graziano
 :ADDED:     <2015-04-25>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17349805
 :END:
 
@@ -3320,7 +3244,6 @@ CLOSED: [2016-02-09]
 :PROPERTIES:
 :AUTHOR:    Umberto Eco, William Weaver, Seán Barrett
 :ADDED:     <2015-04-13>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/119073
 :END:
 
@@ -3371,7 +3294,6 @@ CLOSED: [2015-05-09]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski
 :ADDED:     <2015-04-02>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/6415386
 :END:
 
@@ -3387,7 +3309,6 @@ CLOSED: [2015-04-02]
 :PROPERTIES:
 :AUTHOR:    Andrzej Sapkowski
 :ADDED:     <2015-03-22>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/8173788
 :END:
 
@@ -3416,7 +3337,6 @@ CLOSED: [2015-04-02]
 :PROPERTIES:
 :AUTHOR:    Robert Louis Stevenson
 :ADDED:     <2015-03-14>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/295
 :END:
 
@@ -3476,7 +3396,7 @@ CLOSED: [2015-04-02]
 :GOODREADS: https://www.goodreads.com/book/show/1044095
 :END:
 
-* Religion for Atheists: A Non-Believer's Guide to the Uses of Religion 
+* Religion for Atheists: A Non-Believer's Guide to the Uses of Religion
 :PROPERTIES:
 :AUTHOR:    Alain de Botton
 :ADDED:     <2015-02-25>
@@ -3530,7 +3450,6 @@ CLOSED: [2015-06-27]
 :PROPERTIES:
 :AUTHOR:    Caleb Scharf
 :ADDED:     <2015-02-16>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/22394373
 :END:
 
@@ -3616,7 +3535,6 @@ CLOSED: [2015-02-17]
 :PROPERTIES:
 :AUTHOR:    Kip S. Thorne, Christopher J. Nolan
 :ADDED:     <2015-02-03>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/23521669
 :END:
 
@@ -3660,7 +3578,6 @@ CLOSED: [2015-03-13]
 :PROPERTIES:
 :AUTHOR:    Marcelo Gleiser
 :ADDED:     <2015-02-02>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/22443383
 :END:
 
@@ -3858,7 +3775,6 @@ CLOSED: [2015-09-06]
 :PROPERTIES:
 :AUTHOR:    Elizabeth Kolbert
 :ADDED:     <2015-01-28>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/19665685
 :END:
 
@@ -3895,7 +3811,6 @@ CLOSED: [2015-02-09]
 :PROPERTIES:
 :AUTHOR:    Alan Lightman
 :ADDED:     <2015-01-26>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/12086102
 :END:
 
@@ -3918,7 +3833,6 @@ CLOSED: [2016-06-28]
 :PROPERTIES:
 :AUTHOR:    Richard Feynman, James Gleick
 :ADDED:     <2015-01-23>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/291920
 :END:
 
@@ -3962,7 +3876,6 @@ CLOSED: [2015-02-08]
 :PROPERTIES:
 :AUTHOR:    Frances Ashcroft
 :ADDED:     <2015-01-19>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/19046254
 :END:
 
@@ -3999,7 +3912,6 @@ CLOSED: [2016-05-17]
 :PROPERTIES:
 :AUTHOR:    James Randi, Isaac Asimov
 :ADDED:     <2015-01-15>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/662277
 :END:
 
@@ -4029,7 +3941,6 @@ CLOSED: [2015-05-04]
 :PROPERTIES:
 :AUTHOR:    James Gleick
 :ADDED:     <2015-01-15>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/10380467
 :END:
 
@@ -4073,7 +3984,6 @@ CLOSED: [2015-01-23]
 :PROPERTIES:
 :AUTHOR:    Annalee Newitz
 :ADDED:     <2015-01-13>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17611011
 :END:
 
@@ -4089,7 +3999,6 @@ CLOSED: [2015-01-19]
 :PROPERTIES:
 :AUTHOR:    Erwin Schrödinger, Roger Penrose
 :ADDED:     <2015-01-10>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18637768
 :END:
 
@@ -4203,7 +4112,6 @@ CLOSED: [2014-12-30]
 :PROPERTIES:
 :AUTHOR:    Seth Lloyd
 :ADDED:     <2014-12-23>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/331680
 :END:
 
@@ -4211,7 +4119,6 @@ CLOSED: [2014-12-30]
 :PROPERTIES:
 :AUTHOR:    Rudyard Kipling
 :ADDED:     <2014-12-21>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/77270
 :END:
 
@@ -4220,7 +4127,6 @@ CLOSED: [2016-03-04]
 :PROPERTIES:
 :AUTHOR:    Richard Feynman
 :ADDED:     <2014-12-19>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/10916738
 :END:
 
@@ -4243,7 +4149,6 @@ CLOSED: [2016-06-27]
 :PROPERTIES:
 :AUTHOR:    Donald A. Norman
 :ADDED:     <2014-12-18>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/840
 :END:
 
@@ -4280,7 +4185,6 @@ CLOSED: [2015-12-27]
 :PROPERTIES:
 :AUTHOR:    Stephen Wolfram
 :ADDED:     <2014-12-18>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/238558
 :END:
 
@@ -4303,7 +4207,6 @@ CLOSED: [2015-01-01]
 :PROPERTIES:
 :AUTHOR:    Sara Maitland
 :ADDED:     <2014-12-16>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/20518977
 :END:
 
@@ -4326,7 +4229,6 @@ CLOSED: [2015-04-09]
 :PROPERTIES:
 :AUTHOR:    Robert Paul Smith, Elinor Goulding Smith, Paul     Collins
 :ADDED:     <2014-12-16>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/7022939
 :END:
 
@@ -4376,7 +4278,6 @@ CLOSED: [2015-04-09]
 :PROPERTIES:
 :AUTHOR:    Edwin A. Abbott, Banesh Hoffmann
 :ADDED:     <2014-10-27>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/433567
 :END:
 
@@ -4399,7 +4300,6 @@ CLOSED: [2014-10-21]
 :PROPERTIES:
 :AUTHOR:    Jeff Hawkins, Sandra Blakeslee
 :ADDED:     <2014-07-27>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/27539
 :END:
 
@@ -4422,7 +4322,6 @@ CLOSED: [2015-01-18]
 :PROPERTIES:
 :AUTHOR:    Sam Kean
 :ADDED:     <2014-07-13>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/13521382
 :END:
 
@@ -4438,7 +4337,6 @@ CLOSED: [2014-12-04]
 :PROPERTIES:
 :AUTHOR:    Lawrence M. Krauss, Richard Dawkins
 :ADDED:     <2014-07-13>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/11337189
 :END:
 
@@ -4468,7 +4366,6 @@ CLOSED: [2014-12-20]
 :PROPERTIES:
 :AUTHOR:    Robert Jungk, James Cleugh
 :ADDED:     <2014-07-13>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/407305
 :END:
 
@@ -4484,7 +4381,6 @@ CLOSED: [2014-12-28]
 :PROPERTIES:
 :AUTHOR:    Rachel Carson, Linda Lear, Edward O. Wilson
 :ADDED:     <2014-07-13>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/27333
 :END:
 
@@ -4493,7 +4389,6 @@ CLOSED: [2015-02-12]
 :PROPERTIES:
 :AUTHOR:    James D. Watson
 :ADDED:     <2014-07-13>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/18920474
 :END:
 
@@ -4516,7 +4411,6 @@ CLOSED: [2015-03-09]
 :PROPERTIES:
 :AUTHOR:    Ray Kurzweil
 :ADDED:     <2014-07-13>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/5804507
 :END:
 
@@ -4532,7 +4426,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Darrell Huff, Irving Geis
 :ADDED:     <2014-07-13>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/51291
 :END:
 
@@ -4568,7 +4461,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Paulo Coelho, Alan R. Clarke
 :ADDED:     <2014-07-06>
-:RATING:     :star::star:
 :GOODREADS: https://www.goodreads.com/book/show/865
 :END:
 
@@ -4576,7 +4468,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Arthur Conan Doyle
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/162823
 :END:
 
@@ -4584,7 +4475,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Arthur Conan Doyle
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/754713
 :END:
 
@@ -4592,7 +4482,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Arthur Conan Doyle
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/194366
 :END:
 
@@ -4600,7 +4489,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Arthur Conan Doyle
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/194373
 :END:
 
@@ -4608,7 +4496,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Arthur Conan Doyle
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/3590
 :END:
 
@@ -4616,7 +4503,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    J.K. Rowling, Jim Kay, Mary GrandPré
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/3
 :END:
 
@@ -4624,7 +4510,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Dan Brown
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/976
 :END:
 
@@ -4632,7 +4517,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Dan Brown
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/11125
 :END:
 
@@ -4640,7 +4524,6 @@ CLOSED: [2014-07-22]
 :PROPERTIES:
 :AUTHOR:    Dan Brown
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/6411961
 :END:
 
@@ -4649,7 +4532,6 @@ CLOSED: [2014-07-10]
 :PROPERTIES:
 :AUTHOR:    Rebecca Skloot
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/6493208
 :END:
 
@@ -4657,7 +4539,6 @@ CLOSED: [2014-07-10]
 :PROPERTIES:
 :AUTHOR:    Stephen Hawking, Isaac Newton, Nicolaus Copernicus, Albert Einstein, Johannes Kepler, Galileo Galilei
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/32610
 :END:
 
@@ -4665,7 +4546,6 @@ CLOSED: [2014-07-10]
 :PROPERTIES:
 :AUTHOR:    Stephen Hawking
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/2096
 :END:
 
@@ -4674,7 +4554,6 @@ CLOSED: [2014-07-12]
 :PROPERTIES:
 :AUTHOR:    Susan Cain
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/8520610
 :END:
 
@@ -4683,7 +4562,6 @@ CLOSED: [2014-07-05]
 :PROPERTIES:
 :AUTHOR:    George Orwell
 :ADDED:     <2014-07-05>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/7613
 :END:
 
@@ -4692,7 +4570,6 @@ CLOSED: [2014-06-24]
 :PROPERTIES:
 :AUTHOR:    Richard Feynman
 :ADDED:     <2014-06-23>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/5552
 :END:
 
@@ -4701,7 +4578,6 @@ CLOSED: [2014-06-22]
 :PROPERTIES:
 :AUTHOR:    Steven Weinberg
 :ADDED:     <2014-06-22>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/150131
 :END:
 
@@ -4709,7 +4585,6 @@ CLOSED: [2014-06-22]
 :PROPERTIES:
 :AUTHOR:    Stephen Hawking
 :ADDED:     <2014-04-10>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/2095
 :END:
 
@@ -4717,7 +4592,6 @@ CLOSED: [2014-06-22]
 :PROPERTIES:
 :AUTHOR:    Fritjof Capra
 :ADDED:     <2014-04-10>
-:RATING:     :star::star:
 :GOODREADS: https://www.goodreads.com/book/show/10238
 :END:
 
@@ -4725,7 +4599,6 @@ CLOSED: [2014-06-22]
 :PROPERTIES:
 :AUTHOR:    Richard Dawkins
 :ADDED:     <2014-04-10>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/117047
 :END:
 
@@ -4734,7 +4607,6 @@ CLOSED: [2014-04-10]
 :PROPERTIES:
 :AUTHOR:    Randy Pausch, Jeffrey Zaslow
 :ADDED:     <2014-04-10>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/2318271
 :END:
 
@@ -4742,7 +4614,6 @@ CLOSED: [2014-04-10]
 :PROPERTIES:
 :AUTHOR:    Sean Patrick
 :ADDED:     <2014-04-10>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/17835351
 :END:
 
@@ -4751,7 +4622,6 @@ CLOSED: [2014-03-23]
 :PROPERTIES:
 :AUTHOR:    James Gleick
 :ADDED:     <2014-03-19>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/64582
 :END:
 
@@ -4759,7 +4629,6 @@ CLOSED: [2014-03-23]
 :PROPERTIES:
 :AUTHOR:    Stephen Hawking, Leonard Mlodinow
 :ADDED:     <2014-03-19>
-:RATING:     :star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/8520362
 :END:
 
@@ -4767,7 +4636,6 @@ CLOSED: [2014-03-23]
 :PROPERTIES:
 :AUTHOR:    Richard Feynman
 :ADDED:     <2014-03-19>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/5544
 :END:
 
@@ -4775,7 +4643,6 @@ CLOSED: [2014-03-23]
 :PROPERTIES:
 :AUTHOR:    Stephen Hawking, Cao Chi, Phạm Văn Thiều
 :ADDED:     <2014-03-19>
-:RATING:     :star::star::star::star::star:
 :GOODREADS: https://www.goodreads.com/book/show/3869
 :END:
 
@@ -4867,7 +4734,6 @@ CLOSED: [2017-07-07 Fri 23:58]
 :AUTHOR:   Neil Gaiman, Sam Kieth, (Illustrator), Mike Dringenberg, (Illustrator), Malcolm Jones III, (Illustrator), Todd Klein, (Letterer), Karen  Berger, (Introduction/Editor)
 :ADDED:    <2017-07-07>
 :GOODREADS: https://www.goodreads.com/book/show/23754.Preludes_Nocturnes
-:RATING:   :star::star::star:
 :END:
 
 Decent. Did not feel /very/ impressive, but there are a lot more issues to go.
@@ -4878,7 +4744,6 @@ CLOSED: [2017-07-11 Tue 15:33]
 :AUTHOR:   Neil Gaiman, Steve Parkhouse, (Illustrator), Chris Bachalo, (Illustrator), Michael Zulli, (Illustrator), Mike Dringenberg, (Illustrator), Malcolm Jones III, (Illustrator), Todd Klein, (Letterer), Clive Barker, (Introduction)
 :ADDED:    <2017-07-08>
 :GOODREADS: https://www.goodreads.com/book/show/25099.The_Doll_s_House
-:RATING:   :star::star::star::star:
 :END:
 
 Better than the first collection. Both are written well, but the first feels
@@ -4975,4 +4840,3 @@ attention, has more depth to it.
 :ADDED:    <2017-07-28>
 :AMAZON:   https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640
 :END:
-
