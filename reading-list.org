@@ -1868,7 +1868,7 @@ CLOSED: [2017-04-11]
 :GOODREADS: https://www.goodreads.com/book/show/50033
 :END:
 
-* The Trial
+* READING The Trial
 :PROPERTIES:
 :AUTHOR:    Franz Kafka, Edwin Muir, Willa Muir, Max Brod
 :ADDED:     <2016-08-11>
