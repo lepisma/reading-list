@@ -1455,8 +1455,18 @@ At places, it felt like doing a little bit of exaggeration by criticizing the
 classical wisdom too much. Many of the times an approach which has less
 explanation and theory behind it is frowned upon. Many of the group-behavior
 based solutions fall in this category. They might work well, but their lack of
-popularity is not /entirely/ surprising and irrational (can we can say its another
-wisdom of the crowd rejecting the first wisdom of the crowd?).
+popularity is not /entirely/ surprising and irrational.
+
+Also, the last chapter on democracy worries me a little. The point of the
+chapter is that democracy is better than other forms because it uses the crowd's
+wisdom, but it fails to make the a solid classification of the problem and
+specify why it solves them better. I guess this is more because there are
+/problems/ rather than /a/ problem to be solved in a government and they are vary in
+how they can be solved. Overall, the chapter, while presenting good arguments,
+tries to convince you of something more vague. Consider this case, there are
+many arguments given for and against the design of democracy, e.g. are people
+behaving in a selfish manner like in a market? Public choice theorists say
+that the market TODO
 
 I like how the book classifies the type of problems regularly faced by a crowd
 and the conditions they need to make wise decisions there. These are some good
