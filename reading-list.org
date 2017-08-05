@@ -4850,3 +4850,9 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640
 :END:
 
+* The Lifelong Activist
+:PROPERTIES:
+:AUTHOR:   Hillary Rettig
+:URL:      http://lifelongactivist.com/
+:END:
+
