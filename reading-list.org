@@ -4856,3 +4856,59 @@ attention, has more depth to it.
 :URL:      http://lifelongactivist.com/
 :END:
 
+* The Story of Art
+:PROPERTIES:
+:AUTHOR:   E.H. Gombrich
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/222078.The_Story_of_Art
+:END:
+
+* The Noonday Demon: An Atlas of Depression
+:PROPERTIES:
+:AUTHOR:   Andrew Solomon
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/13932.The_Noonday_Demon
+:END:
+
+* The Song Of The Dodo: Island Biogeography In An Age Of Extinctions
+:PROPERTIES:
+:AUTHOR:   David Quammen
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/546725.The_Song_Of_The_Dodo
+:END:
+
+* Forces of Habit: Drugs and the Making of the Modern World
+:PROPERTIES:
+:AUTHOR:   David T. Courtwright
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/1358247.Forces_of_Habit
+:END:
+
+* A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam
+:PROPERTIES:
+:AUTHOR:   Karen Armstrong
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/3873.A_History_of_God
+:END:
+
+* Inside Terrorism (Columbia Studies in Terrorism and Irregular Warfare)
+:PROPERTIES:
+:AUTHOR:   Bruce Hoffman
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/22891.Inside_Terrorism
+:END:
+
+* King Leopold's Ghost
+:PROPERTIES:
+:AUTHOR:   Adam Hochschild
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/347610.King_Leopold_s_Ghost
+:END:
+
+* Thinking, Fast and Slow
+:PROPERTIES:
+:AUTHOR:   Daniel Kahneman
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
+:END:
+
