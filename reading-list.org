@@ -4912,3 +4912,10 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
 :END:
 
+* The Emperor of All Maladies: A Biography of Cancer
+:PROPERTIES:
+:AUTHOR:   Siddhartha Mukherjee
+:ADDED:    <2017-08-08>
+:GOODREADS: https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies
+:END:
+
