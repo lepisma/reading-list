@@ -4919,3 +4919,10 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies
 :END:
 
+* Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-08-09>
+:AMAZON:   https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
+:END:
+
