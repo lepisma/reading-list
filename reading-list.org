@@ -4926,3 +4926,10 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
 :END:
 
+* Evolution and the Levels of Selection
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-08-23>
+:AMAZON:   https://www.amazon.com/Evolution-Levels-Selection-Samir-Okasha/dp/0199556717
+:END:
+
