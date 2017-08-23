@@ -4933,3 +4933,10 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Evolution-Levels-Selection-Samir-Okasha/dp/0199556717
 :END:
 
+* Deep Work: Rules for Focused Success in a Distracted World
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-08-23>
+:AMAZON:   https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?ie=UTF8&qid=1503497788&sr=8-1&keywords=deep+work
+:END:
+
