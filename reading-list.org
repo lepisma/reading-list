@@ -4947,3 +4947,10 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521
 :END:
 
+* The Yellow Wall-Paper
+:PROPERTIES:
+:AUTHOR:   Charlotte Perkins Gilman, Elaine Hedges
+:ADDED:    <2017-08-28>
+:GOODREADS: https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper
+:END:
+
