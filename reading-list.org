@@ -4954,3 +4954,10 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper
 :END:
 
+* Hammer of the Gods: The Led Zeppelin Saga
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-08-31>
+:AMAZON:   https://www.amazon.com/Hammer-Gods-Led-Zeppelin-Saga/dp/0061473081
+:END:
+
