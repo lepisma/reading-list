@@ -4940,13 +4940,6 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?ie=UTF8&qid=1503497788&sr=8-1&keywords=deep+work
 :END:
 
-* Logicomix: An epic search for truth
-:PROPERTIES:
-:AUTHOR:   Christos Papadimitriou
-:ADDED:    <2017-08-27>
-:AMAZON:   https://www.amazon.com/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521
-:END:
-
 * The Yellow Wall-Paper
 :PROPERTIES:
 :AUTHOR:   Charlotte Perkins Gilman, Elaine Hedges
@@ -4959,5 +4952,12 @@ attention, has more depth to it.
 :AUTHOR:
 :ADDED:    <2017-08-31>
 :AMAZON:   https://www.amazon.com/Hammer-Gods-Led-Zeppelin-Saga/dp/0061473081
+:END:
+
+* Logic for Computer Scientists (Modern Birkhäuser Classics)
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-08-31>
+:AMAZON:   https://www.amazon.com/Computer-Scientists-Modern-Birkh%C3%A4user-Classics/dp/0817647627#reader_0817647627
 :END:
 
