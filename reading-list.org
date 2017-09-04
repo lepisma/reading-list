@@ -4961,3 +4961,10 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Computer-Scientists-Modern-Birkh%C3%A4user-Classics/dp/0817647627#reader_0817647627
 :END:
 
+* READING The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+:PROPERTIES:
+:AUTHOR:   Mark Manson
+:ADDED:    <2017-09-04>
+:GOODREADS: https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck
+:END:
+
