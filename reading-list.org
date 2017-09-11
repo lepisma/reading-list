@@ -4968,3 +4968,10 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck
 :END:
 
+* Blood Meridian, or the Evening Redness in the West
+:PROPERTIES:
+:AUTHOR:   Cormac McCarthy
+:ADDED:    <2017-09-11>
+:GOODREADS: https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West
+:END:
+
