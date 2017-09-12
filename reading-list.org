@@ -4975,3 +4975,17 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West
 :END:
 
+* The Autobiography of Charles Darwin, 1809–82
+:PROPERTIES:
+:AUTHOR:   Charles Darwin, Nora Barlow
+:ADDED:    <2017-09-12>
+:GOODREADS: https://www.goodreads.com/book/show/185404.The_Autobiography_of_Charles_Darwin_1809_82
+:END:
+
+* Diagrammatica: The Path to Feynman Diagrams (Cambridge Lecture Notes in Physics)
+:PROPERTIES:
+:AUTHOR:   Martinus Veltman
+:ADDED:    <2017-09-12>
+:GOODREADS: https://www.goodreads.com/book/show/330562.Diagrammatica
+:END:
+
