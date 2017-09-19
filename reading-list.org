@@ -4989,3 +4989,10 @@ attention, has more depth to it.
 :GOODREADS: https://www.goodreads.com/book/show/330562.Diagrammatica
 :END:
 
+* The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made
+:PROPERTIES:
+:AUTHOR:   Tom Bissell
+:ADDED:    <2017-09-18>
+:AMAZON:   https://www.amazon.com/Disaster-Artist-Inside-Greatest-Movie/dp/1451661193
+:END:
+
