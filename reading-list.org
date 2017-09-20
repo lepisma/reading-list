@@ -4996,3 +4996,10 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Disaster-Artist-Inside-Greatest-Movie/dp/1451661193
 :END:
 
+* The Evolution of Beauty: How Darwin's Forgotten Theory of Mate Choice Shapes the Animal World - and Us
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-09-20>
+:AMAZON:   https://www.amazon.com/Evolution-Beauty-Darwins-Forgotten-Theory/dp/0385537212
+:END:
+
