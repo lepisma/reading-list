@@ -4969,7 +4969,16 @@ CLOSED: [2017-09-21 Thu 03:56]
 :GOODREADS: https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck
 :END:
 
-Here is a thing about self help books.
+Here is a thing about self help books. You might not agree with them completely
+and/or they might not present solid backing for all they say, but they do help
+by letting you think about ideas you could not have thought much about
+otherwise.
+
+This particular book is a neat example. I bet it is /like/ (in spite of the
+presentation, which brought me to read it) other similar books in the genre.
+That means it fits into my earlier paragraph's argument and I wouldn't /strongly/
+recommend this specific book but would recommend reading/thinking about the
+topics it touches.
 
 * Blood Meridian, or the Evening Redness in the West
 :PROPERTIES:
