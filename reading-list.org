@@ -4961,12 +4961,15 @@ attention, has more depth to it.
 :AMAZON:   https://www.amazon.com/Computer-Scientists-Modern-Birkh%C3%A4user-Classics/dp/0817647627#reader_0817647627
 :END:
 
-* READING The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+* READ The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+CLOSED: [2017-09-21 Thu 03:56]
 :PROPERTIES:
 :AUTHOR:   Mark Manson
 :ADDED:    <2017-09-04>
 :GOODREADS: https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck
 :END:
+
+Here is a thing about self help books.
 
 * Blood Meridian, or the Evening Redness in the West
 :PROPERTIES:
@@ -5001,5 +5004,12 @@ attention, has more depth to it.
 :AUTHOR:
 :ADDED:    <2017-09-20>
 :AMAZON:   https://www.amazon.com/Evolution-Beauty-Darwins-Forgotten-Theory/dp/0385537212
+:END:
+
+* The Denial of Death
+:PROPERTIES:
+:AUTHOR:   Ernest Becker, Sam Keen, Daniel Goleman
+:ADDED:    <2017-09-21>
+:GOODREADS: https://www.goodreads.com/book/show/2761.The_Denial_of_Death
 :END:
 
