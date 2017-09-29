@@ -5022,3 +5022,17 @@ topics it touches.
 :GOODREADS: https://www.goodreads.com/book/show/2761.The_Denial_of_Death
 :END:
 
+* The Idea of India
+  :PROPERTIES:
+  :AUTHOR:   Sunil Khilnani
+  :ADDED:    <2017-09-29>
+  :GOODREADS: https://www.goodreads.com/book/show/631243.The_Idea_of_India
+  :END:
+
+* The Annihilation of Caste
+  :PROPERTIES:
+  :AUTHOR:   B.R. Ambedkar
+  :ADDED:    <2017-09-29>
+  :GOODREADS: https://www.goodreads.com/book/show/8521879-the-annihilation-of-caste
+  :END:
+
