@@ -5036,3 +5036,17 @@ topics it touches.
   :GOODREADS: https://www.goodreads.com/book/show/8521879-the-annihilation-of-caste
   :END:
 
+* The Black Swan: The Impact of the Highly Improbable (Incerto #2)
+:PROPERTIES:
+:AUTHOR:   Nassim Nicholas Taleb
+:ADDED:    <2017-10-03>
+:GOODREADS: https://www.goodreads.com/book/show/242472.The_Black_Swan
+:END:
+
+* Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto #1)
+:PROPERTIES:
+:AUTHOR:   Nassim Nicholas Taleb
+:ADDED:    <2017-10-03>
+:GOODREADS: https://www.goodreads.com/book/show/38315.Fooled_by_Randomness
+:END:
+
