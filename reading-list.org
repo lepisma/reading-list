@@ -5050,3 +5050,9 @@ topics it touches.
 :GOODREADS: https://www.goodreads.com/book/show/38315.Fooled_by_Randomness
 :END:
 
+* राग दरबारी (Raag Darbari)
+:PROPERTIES:
+:AUTHOR:   Shrilal Shukla
+:ADDED:    <2017-10-04>
+:GOODREADS: https://www.goodreads.com/book/show/2164749._
+:END:
