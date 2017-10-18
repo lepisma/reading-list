@@ -5056,10 +5056,18 @@ topics it touches.
 :ADDED:    <2017-10-04>
 :GOODREADS: https://www.goodreads.com/book/show/2164749._
 :END:
+
 * Realm of Racket: Learn to Program, One Game at a Time!
 :PROPERTIES:
 :AUTHOR:   Conrad Barski M.D., David Van Horn, Eight Students Northeastern University of
 :ADDED:    <2017-10-14>
 :AMAZON:   https://www.amazon.com/dp/1593274912/ref=cm_sw_su_dp
+:END:
+
+* Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-10-18>
+:AMAZON:   https://www.amazon.com/Probably-Approximately-Correct-Algorithms-Prospering/dp/0465060722/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=
 :END:
 
