@@ -5035,7 +5035,7 @@ topics it touches.
   :ADDED:    <2017-09-29>
   :GOODREADS: https://www.goodreads.com/book/show/8521879-the-annihilation-of-caste
   :END:
-
+  
 * The Black Swan: The Impact of the Highly Improbable (Incerto #2)
 :PROPERTIES:
 :AUTHOR:   Nassim Nicholas Taleb
