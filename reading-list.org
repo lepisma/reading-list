@@ -1868,12 +1868,26 @@ CLOSED: [2017-04-11]
 :GOODREADS: https://www.goodreads.com/book/show/50033
 :END:
 
-* READING The Trial
+* READ The Trial
+  CLOSED: [2017-11-06 Mon 23:23]
 :PROPERTIES:
 :AUTHOR:    Franz Kafka, Edwin Muir, Willa Muir, Max Brod
 :ADDED:     <2016-08-11>
 :GOODREADS: https://www.goodreads.com/book/show/17690
 :END:
+I don't think I got it completely. The story flows in a confusing and lazy way
+and I stopped at many places while reading this. I thought a bit about whats
+different here which is making the whole thing boring. Is it the weird way
+people converse? Is it the repelling suspense in the story which I don't feel
+like unraveling by pushing myself a few pages ahead?
+
+Somewhere around 60-70% I got the genius (at least one) behind the writing
+style. The annoyance you feel from the way the story progresses is meant to be
+there and it helps you connect with K and his contempt for the court and the
+whole bureaucracy. I still haven't tried to interpret every symbolism in the
+story (and there are many, now that I think of it), but I do get the general
+point now. More Kafka's and some connected philosophical readings should help to
+get it right.
 
 * READ Brave New World
 CLOSED: [2017-03-31]
