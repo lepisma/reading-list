@@ -5085,10 +5085,13 @@ topics it touches.
 :AMAZON:   https://www.amazon.com/Probably-Approximately-Correct-Algorithms-Prospering/dp/0465060722/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=
 :END:
 
-* The Last Question
+* READ The Last Question
+CLOSED: [2017-11-10 Fri 22:07]
 :PROPERTIES:
 :AUTHOR:   Isaac Asimov, Bob E. Flick, Jim Gallant
 :ADDED:    <2017-11-10>
 :GOODREADS: https://www.goodreads.com/book/show/4808763-the-last-question
 :END:
+
+/How can entropy be reversed?/ ...
 
