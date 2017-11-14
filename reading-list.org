@@ -5095,10 +5095,13 @@ CLOSED: [2017-11-10 Fri 22:07]
 
 /How can entropy be reversed?/ ...
 
-* The Last Answer
+* READ The Last Answer
+CLOSED: [2017-11-13 Mon 20:46]
 :PROPERTIES:
 :AUTHOR:   Isaac Asimov
 :ADDED:    <2017-11-13>
 :GOODREADS: https://www.goodreads.com/book/show/15755066-the-last-answer
 :END:
 
+This (along with /The Last Question/, which I recently read) is a beautiful short.
+Looking forward to more from Asimov.
