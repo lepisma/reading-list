@@ -5105,3 +5105,11 @@ CLOSED: [2017-11-13 Mon 20:46]
 
 This (along with /The Last Question/, which I recently read) is a beautiful short.
 Looking forward to more from Asimov.
+
+* Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-12-16>
+:AMAZON:   https://www.amazon.com/Adaptation-Natural-Artificial-Systems-Introductory/dp/0262581116
+:END:
+
