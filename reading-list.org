@@ -5113,3 +5113,10 @@ Looking forward to more from Asimov.
 :AMAZON:   https://www.amazon.com/Adaptation-Natural-Artificial-Systems-Introductory/dp/0262581116
 :END:
 
+* Schooling In Capitalist America: Educational Reform And The Contradictions Of Economic Life
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2017-12-27>
+:AMAZON:   https://www.amazon.com/Schooling-Capitalist-America-Educational-Contradictions/dp/0465097189
+:END:
+
