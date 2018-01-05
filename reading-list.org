@@ -4422,12 +4422,18 @@ CLOSED: [2015-02-12]
 :GOODREADS: https://www.goodreads.com/book/show/24113
 :END:
 
-* READING The Selfish Gene
+* READ The Selfish Gene
+CLOSED: [2018-01-04 Thu 23:31]
 :PROPERTIES:
 :AUTHOR:    Richard Dawkins
 :ADDED:     <2014-07-13>
 :GOODREADS: https://www.goodreads.com/book/show/61535
 :END:
+
+This is a great book. I probably read it at the right time to understand and
+appreciate more of the issues it talks about. For an amateur interested in
+evolution, this marks an important point from where you start to think more
+deeply about why the world is the way it is.
 
 * READ The Singularity is Near: When Humans Transcend Biology
 CLOSED: [2015-03-09]
@@ -5118,5 +5124,12 @@ Looking forward to more from Asimov.
 :AUTHOR:
 :ADDED:    <2017-12-27>
 :AMAZON:   https://www.amazon.com/Schooling-Capitalist-America-Educational-Contradictions/dp/0465097189
+:END:
+
+* READING Slaughterhouse-Five
+:PROPERTIES:
+:AUTHOR:   Kurt Vonnegut
+:ADDED:    <2018-01-04>
+:GOODREADS: https://www.goodreads.com/book/show/4981.Slaughterhouse_Five
 :END:
 
