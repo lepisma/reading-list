@@ -5133,3 +5133,17 @@ Looking forward to more from Asimov.
 :GOODREADS: https://www.goodreads.com/book/show/4981.Slaughterhouse_Five
 :END:
 
+* Notes from Underground
+:PROPERTIES:
+:AUTHOR:   Fyodor Dostoyevsky, Christian Redl, Philip Dossick, Emanuela Guercetti, Michelle-Irène Brudny, Richard Pevear, Norman Dietz, Donald Fanger, coderati, Boris de Schlœzer, Larissa Volokhonsky
+:ADDED:    <2018-01-07>
+:GOODREADS: https://www.goodreads.com/book/show/49455.Notes_from_Underground
+:END:
+
+* The Stranger
+:PROPERTIES:
+:AUTHOR:   Albert Camus, Stuart Gilbert, Matthew Ward, Leman Sarı
+:ADDED:    <2018-01-07>
+:GOODREADS: https://www.goodreads.com/book/show/49552.The_Stranger
+:END:
+
