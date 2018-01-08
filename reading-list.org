@@ -5147,3 +5147,17 @@ Looking forward to more from Asimov.
 :GOODREADS: https://www.goodreads.com/book/show/49552.The_Stranger
 :END:
 
+* The Princeton Companion to Mathematics
+:PROPERTIES:
+:AUTHOR:   Timothy Gowers, June Barrow-Green, Imre Leader
+:ADDED:    <2018-01-08>
+:GOODREADS: https://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics
+:END:
+
+* Concrete Mathematics: A Foundation for Computer Science
+:PROPERTIES:
+:AUTHOR:   Ronald L. Graham, Donald Ervin Knuth, Oren Patashnik
+:ADDED:    <2018-01-08>
+:GOODREADS: https://www.goodreads.com/book/show/112243.Concrete_Mathematics?ac=1&from_search=true
+:END:
+
