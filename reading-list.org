@@ -5162,3 +5162,10 @@ CLOSED: [2018-01-09 Tue 15:46]
 :GOODREADS: https://www.goodreads.com/book/show/112243.Concrete_Mathematics?ac=1&from_search=true
 :END:
 
+* Mastering the Techniques of Teaching
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2018-01-11>
+:AMAZON:   https://www.amazon.com/Mastering-Techniques-Teaching-Joseph-Lowman/dp/078795568X
+:END:
+
