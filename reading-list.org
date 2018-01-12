@@ -1357,7 +1357,8 @@ general, but is a good read nevertheless. Overall, it ties "data
 science" with its responsibilities. Responsibilities which demands greater care
 and openness than assumed in the present unconstrained Big data buzz.
 
-* READING Beautiful Evidence
+* READ Beautiful Evidence
+CLOSED: [2018-01-11 Thu 18:15]
 :PROPERTIES:
 :AUTHOR:    Edward R. Tufte
 :ADDED:     <2016-09-24>
