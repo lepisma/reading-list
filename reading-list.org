@@ -2661,8 +2661,7 @@ CLOSED: [2015-12-20]
 :GOODREADS: https://www.goodreads.com/book/show/9665017
 :END:
 
-* READ Think Complexity: Complexity Science and Computational Modeling
-CLOSED: [2015-12-13]
+* Think Complexity: Complexity Science and Computational Modeling
 :PROPERTIES:
 :AUTHOR:    Allen B. Downey
 :ADDED:     <2015-12-12>
