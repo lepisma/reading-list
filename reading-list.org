@@ -970,7 +970,8 @@ Interesting read on some of the 'earlier theory and works' in statistical visual
 :GOODREADS: https://www.goodreads.com/book/show/27130704
 :END:
 
-* Upstream: Selected Essays
+* READ Upstream: Selected Essays
+CLOSED: [2018-01-24 Wed 21:31]
 :PROPERTIES:
 :AUTHOR:    Mary Oliver
 :ADDED:     <2016-12-15>
