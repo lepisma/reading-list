@@ -5170,3 +5170,11 @@ CLOSED: [2018-01-09 Tue 15:46]
 :AMAZON:   https://www.amazon.com/Mastering-Techniques-Teaching-Joseph-Lowman/dp/078795568X
 :END:
 
+* READ Seven Languages in Seven Weeks 
+CLOSED: [2018-01-24 Wed 22:59]
+:PROPERTIES:
+:AUTHOR:
+:ADDED:    <2018-01-24>
+:GOODREADS:   https://www.goodreads.com/book/show/7912517-seven-languages-in-seven-weeks
+:END:
+
