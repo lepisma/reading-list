@@ -3054,7 +3054,7 @@ CLOSED: [2015-12-09]
 :GOODREADS: https://www.goodreads.com/book/show/25329850
 :END:
 
-* Do Androids Dream of Electric Sheep?
+* READING Do Androids Dream of Electric Sheep?
 :PROPERTIES:
 :AUTHOR:    Philip K. Dick, Roger Zelazny
 :ADDED:     <2015-07-07>
