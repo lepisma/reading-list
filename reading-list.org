@@ -3054,12 +3054,21 @@ CLOSED: [2015-12-09]
 :GOODREADS: https://www.goodreads.com/book/show/25329850
 :END:
 
-* READING Do Androids Dream of Electric Sheep?
+* READ Do Androids Dream of Electric Sheep?
+CLOSED: [2018-02-02 Fri 02:17]
 :PROPERTIES:
 :AUTHOR:    Philip K. Dick, Roger Zelazny
 :ADDED:     <2015-07-07>
 :GOODREADS: https://www.goodreads.com/book/show/7082
 :END:
+
+Mid way, I realized that I have actually seen the movie (blade runner) but this
+book still kept on giving and giving. I specially enjoyed the way the mind of
+Isidore was picked on. A simple being with a devotion to faith. Its really hard
+to reconcile with reality after your faith, your everything is taken away.
+
+As a side note, I am interested to know more about the author's (Philip K. Dick;
+this is my first book by him) philosophical and religious inclinations.
 
 * Gaia: A New Look at Life on Earth
 :PROPERTIES:
